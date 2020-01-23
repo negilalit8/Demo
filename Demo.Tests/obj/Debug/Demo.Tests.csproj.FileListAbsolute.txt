@@ -35,7 +35,6 @@ C:\Work\Demo\Demo\Demo.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Work\Demo\Demo\Demo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Work\Demo\Demo\Demo.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Work\Demo\Demo\Demo.Tests\obj\Debug\Demo.Tests.csprojAssemblyReference.cache
-C:\Work\Demo\Demo\Demo.Tests\obj\Debug\Demo.Tests.csproj.CoreCompileInputs.cache
 C:\Work\Demo\Demo\Demo.Tests\obj\Debug\Demo.Tests.csproj.CopyComplete
 C:\Work\Demo\Demo\Demo.Tests\obj\Debug\Demo.Tests.dll
 C:\Work\Demo\Demo\Demo.Tests\obj\Debug\Demo.Tests.pdb

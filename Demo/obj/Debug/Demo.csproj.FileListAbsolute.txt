@@ -76,7 +76,6 @@ C:\Work\Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
 C:\Work\Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
 C:\Work\Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Work\Demo\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
-C:\Work\Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
 C:\Work\Demo\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
 C:\Work\Demo\Demo\Demo\obj\Debug\Demo.dll
 C:\Work\Demo\Demo\Demo\obj\Debug\Demo.pdb

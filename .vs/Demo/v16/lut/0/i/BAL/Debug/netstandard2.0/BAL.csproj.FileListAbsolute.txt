@@ -1,0 +1,6 @@
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\BAL\Debug\netstandard2.0\BAL.deps.json
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\BAL\Debug\netstandard2.0\BAL.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\BAL\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\BAL\Debug\netstandard2.0\BAL.AssemblyInfo.cs
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\BAL\Debug\netstandard2.0\BAL.csproj.CopyComplete
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\BAL\Debug\netstandard2.0\BAL.dll

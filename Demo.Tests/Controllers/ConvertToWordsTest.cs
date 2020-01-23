@@ -12,6 +12,16 @@ namespace Demo.Tests.Controllers
     {
         private IValueBAL _IvalueBAL;
 
+        public ConvertToWordsTest()
+        {           
+        }
+
+        [TestInitialize]
+        public void Initalize()
+        {
+            _IvalueBAL = new ValuesBAL();
+        }
+
         public ConvertToWordsTest(IValueBAL IvalueBAL)
         {
             _IvalueBAL = IvalueBAL;

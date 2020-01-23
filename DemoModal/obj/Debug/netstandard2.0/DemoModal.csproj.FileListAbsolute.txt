@@ -5,7 +5,6 @@ C:\Work\Demo\Demo\DemoModal\bin\Debug\netstandard2.0\System.ComponentModel.DataA
 C:\Work\Demo\Demo\DemoModal\bin\Debug\netstandard2.0\System.Configuration.dll
 C:\Work\Demo\Demo\DemoModal\bin\Debug\netstandard2.0\System.Security.dll
 C:\Work\Demo\Demo\DemoModal\obj\Debug\netstandard2.0\DemoModal.csprojAssemblyReference.cache
-C:\Work\Demo\Demo\DemoModal\obj\Debug\netstandard2.0\DemoModal.csproj.CoreCompileInputs.cache
 C:\Work\Demo\Demo\DemoModal\obj\Debug\netstandard2.0\DemoModal.AssemblyInfoInputs.cache
 C:\Work\Demo\Demo\DemoModal\obj\Debug\netstandard2.0\DemoModal.AssemblyInfo.cs
 C:\Work\Demo\Demo\DemoModal\obj\Debug\netstandard2.0\DemoModal.csproj.CopyComplete

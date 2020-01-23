@@ -34,7 +34,7 @@ namespace Demo.Controllers
             result = _IvalueBAL.ConvertToWords(Convert.ToString(obj.amount));
             //return Ok(result).ToString();
             // return Request.CreateResponse(HttpStatusCode.OK, "success");
-            return obj.name + "  " + result;
+            return obj.name + " " + result;
         }
 
         // POST: api/ConvertToWords

@@ -1,0 +1,7 @@
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\DemoModal\Debug\netstandard2.0\DemoModal.deps.json
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\DemoModal\Debug\netstandard2.0\DemoModal.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\DemoModal\Debug\netstandard2.0\DemoModal.csprojAssemblyReference.cache
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\DemoModal\Debug\netstandard2.0\DemoModal.AssemblyInfoInputs.cache
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\DemoModal\Debug\netstandard2.0\DemoModal.AssemblyInfo.cs
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\DemoModal\Debug\netstandard2.0\DemoModal.csproj.CopyComplete
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\DemoModal\Debug\netstandard2.0\DemoModal.dll

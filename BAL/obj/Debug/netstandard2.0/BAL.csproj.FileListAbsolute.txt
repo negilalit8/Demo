@@ -2,7 +2,6 @@ C:\Work\Demo\Demo\BAL\bin\Debug\netstandard2.0\BAL.deps.json
 C:\Work\Demo\Demo\BAL\bin\Debug\netstandard2.0\BAL.dll
 C:\Work\Demo\Demo\BAL\bin\Debug\netstandard2.0\BAL.pdb
 C:\Work\Demo\Demo\BAL\obj\Debug\netstandard2.0\BAL.csprojAssemblyReference.cache
-C:\Work\Demo\Demo\BAL\obj\Debug\netstandard2.0\BAL.csproj.CoreCompileInputs.cache
 C:\Work\Demo\Demo\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
 C:\Work\Demo\Demo\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs
 C:\Work\Demo\Demo\BAL\obj\Debug\netstandard2.0\BAL.dll

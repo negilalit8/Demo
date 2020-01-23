@@ -1,0 +1,5 @@
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo\bin\Demo.dll.config
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo\bin\Demo.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo\Debug\Demo.csprojAssemblyReference.cache
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo\Debug\Demo.csproj.CopyComplete
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo\Debug\Demo.dll

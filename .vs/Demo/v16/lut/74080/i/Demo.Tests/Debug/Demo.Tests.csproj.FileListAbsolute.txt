@@ -1,0 +1,8 @@
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo.Tests\bin\Debug\Demo.Tests.dll.config
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\b\Demo.Tests\bin\Debug\Demo.Tests.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo.Tests\Debug\Demo.Tests.csproj.CopyComplete
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo.Tests\Debug\Demo.Tests.dll
+C:\Work\Demo\Demo\.vs\Demo\v16\lut\0\i\Demo.Tests\Debug\Demo.Tests.csprojAssemblyReference.cache

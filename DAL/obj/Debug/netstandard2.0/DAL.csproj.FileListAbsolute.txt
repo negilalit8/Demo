@@ -2,7 +2,6 @@ C:\Work\Demo\Demo\DAL\bin\Debug\netstandard2.0\DAL.deps.json
 C:\Work\Demo\Demo\DAL\bin\Debug\netstandard2.0\DAL.dll
 C:\Work\Demo\Demo\DAL\bin\Debug\netstandard2.0\DAL.pdb
 C:\Work\Demo\Demo\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
-C:\Work\Demo\Demo\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
 C:\Work\Demo\Demo\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
 C:\Work\Demo\Demo\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
 C:\Work\Demo\Demo\DAL\obj\Debug\netstandard2.0\DAL.dll
