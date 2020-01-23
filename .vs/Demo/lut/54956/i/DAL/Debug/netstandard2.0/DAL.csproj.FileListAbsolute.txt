@@ -1,0 +1,7 @@
+C:\Work\Demo\Demo\.vs\Demo\lut\0\b\DAL\Debug\netstandard2.0\DAL.deps.json
+C:\Work\Demo\Demo\.vs\Demo\lut\0\b\DAL\Debug\netstandard2.0\DAL.dll
+C:\Work\Demo\Demo\.vs\Demo\lut\0\i\DAL\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Work\Demo\Demo\.vs\Demo\lut\0\i\DAL\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Work\Demo\Demo\.vs\Demo\lut\0\i\DAL\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Work\Demo\Demo\.vs\Demo\lut\0\i\DAL\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Work\Demo\Demo\.vs\Demo\lut\0\i\DAL\Debug\netstandard2.0\DAL.dll
